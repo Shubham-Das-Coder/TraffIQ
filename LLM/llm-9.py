@@ -39,7 +39,7 @@ while cap.isOpened():
             center_x = (x1 + x2) / 2
             center_y = (y1 + y2) / 2
 
-            # ✅ FIX: Use np.array([[x, y]]) instead of tuple
+            # FIX: Use np.array([[x, y]]) instead of tuple
             detections.append(Detection(points=np.array([[center_x, center_y]])))
 
             # Draw bounding box
