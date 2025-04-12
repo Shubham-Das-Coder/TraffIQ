@@ -1,0 +1,9 @@
+1. Grayscale Thresholding
+2. Color Filtering (in HSV or HLS)
+3. Edge Detection (Canny Edge Detector)
+4. Hough Line Transform
+5. Perspective Transform (Bird’s Eye View)
+6. Histogram Peaks (for lane center finding)
+7. Sliding Window Method
+8. Contours + Shape Filtering
+9. Gradient-based Thresholding (Sobel Operators)
